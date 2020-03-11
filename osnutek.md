@@ -10,6 +10,6 @@ Ti podatki podajo več zanimivih vprašanj, kot npr.:
   * Kje je opravljenih največ nadur, in kje so te najbolje plačane?
   * Kakšne so vrednosti, če upoštevano/primerjmo inflacijo?
   
-Cilj je seveda pregled in vizualizacija teh podatkov, ter njihva razdelitev po regijah. Zanima nas tudi razporeditev plač po Sloveniji.
+Cilj je seveda analiza, pregled in vizualizacija teh podatkov, ter njihova razdelitev po regijah. Zanima nas tudi razporeditev plač po Sloveniji.
 
 Podatki so podani v formatu PC-Axis (.px), vendar jih boma za potrebe naloge pretvorila v bolj berljiv format (za programske jezike), kot npr. .csv. Vir podatkov je sletno mesto podatki.gov.si, sama zbirka podatkov pa se nahaja na naslovu: https://podatki.gov.si/dataset/surs0772615s
