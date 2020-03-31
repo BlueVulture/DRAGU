@@ -31,4 +31,6 @@ V podatkovni datoteki so podane sledeče vrednosti:
  * Zaposlene osebe, ki so prejele zaostala izplačila
  * Zaposlene osebe z izplačanimi nadurami
  
-Vrednosti so za leta od 2005 do 2019, in so povprečja celotnega leta za posamezne občine v Sloveniji (katerih je 211)
+Vrednosti so za leta od 2005 do 2019, in so povprečja celotnega leta za posamezne občine v Sloveniji (katerih je 211).
+
+Za potrebe analize sva uporabljala samo neto vrednosti (namesto bruto), saj ponujajo boljšo predstavitev dejanskega denarnega prihodka za posamezno občino.
