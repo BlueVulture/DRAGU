@@ -18,5 +18,17 @@ Cilj je seveda analiza, pregled in vizualizacija teh podatkov, ter njihova razde
 
 ## Podatki
 
-Podatki so podani v formatu PC-Axis (.px), vendar jih boma za potrebe naloge pretvorila v bolj berljiv format (za programske jezike), kot npr. .csv. Vir podatkov je sletno mesto podatki.gov.si, sama zbirka podatkov pa se nahaja na naslovu: https://podatki.gov.si/dataset/surs0772615s
-
+V podatkovni datoteki so podane sledeče vrednosti:
+ * Povprečna mesečna bruto plača
+ * Povprečna mesečna neto plača
+ * Indeks povprečne mesečne bruto plače
+ * Indeks povprečne mesečne neto plače
+ * Povprečna plača za plačano naduro
+ * Povprečna mesečna bruto plača za plačano uro
+ * Povprečna mesečna neto plača za plačano uro
+ * Indeks povprečne mesečne bruto plače za plačano uro
+ * Indeks povprečne mesečne neto plače za plačano uro
+ * Zaposlene osebe, ki so prejele zaostala izplačila
+ * Zaposlene osebe z izplačanimi nadurami
+ 
+Vrednosti so za leta od 2005 do 2019, in so povprečja celotnega leta za posamezne občine v Sloveniji (katerih je 211)
