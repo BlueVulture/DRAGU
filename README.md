@@ -39,7 +39,7 @@ Za potrebe analize sva uporabljala samo neto vrednosti (namesto bruto), saj ponu
 
 ## Predstavitev podatkov
 
-### Največja povprečna neto plača
+### Povprečna neto plača
 
 Pri vseh letih je največja plača v občini **Cerklje na Gorenjskem**. 
 
@@ -50,4 +50,25 @@ Pri vseh letih je največja plača v občini **Cerklje na Gorenjskem**.
 
 ![Primerjava povp. neto plače z povp. plačo Slovenije](slike/Primerjava_povp_neto_place_1.png)
 
-### Največja povprečna plača za nadure
+**Cerklje na Gorenjskem** ima večje povp. kot naslednjih 9 občin z največim povp. v letu 2019:
+
+![Primerjava povp. neto plače](slike/Primerjava_povp_neto_place_2.png)
+
+### Povprečna plača za nadure
+
+Največja plača nadur je veliko bolj rarpršena kot povp. plača, kot je razvidno iz tabele:
+
+|    | 2005          | 2006            | 2007   | 2008                  | 2009               | 2010   | 2011               | 2012               | 2013               | 2014           | 2015       | 2016               | 2017               | 2018   | 2019   |
+|---:|:--------------|:----------------|:-------|:----------------------|:-------------------|:-------|:-------------------|:-------------------|:-------------------|:---------------|:-----------|:-------------------|:-------------------|:-------|:-------|
+|  **Občina** | Velika Polana | Šmartno ob Paki | Vojnik | Cerklje na Gorenjskem | Šempeter - Vrtojba | Kostel | Šempeter - Vrtojba | Šempeter - Vrtojba | Šempeter - Vrtojba | Slovenj Gradec | Cerkvenjak | Šempeter - Vrtojba | Šempeter - Vrtojba | Žetale | Zavrč  |
+|  **Povp. nadura** | 21.07         | 13.47           | 12.37  | 16.96                 | 22.0               | 61.93  | 19.19              | 20.41              | 20.07              | 25.15          | 25.47      | 20.09              | 18.95              | 20.08  | 22.04  |
+
+Primerjava vseh teh občin čez leta:
+
+![Primerjava povp. plače nadur](slike/Primerjava_povp_nadure_1.png)
+
+Razkrije da je plača nadur v Kostel-ju leta 2010 osamelec. V primerjavi z številu oseb, katerim so te nadure bile izplačane:
+
+![Primerjava povp. št. oseb katerim so nadure bile plačane](slike/Primerjava_povp_nadure_2.png)
+
+Pokaže, da število oseb ni abnormalno nizko, kot sva pričakovala, ampak je celo konsistentno z povp. celotne Slovenije.
