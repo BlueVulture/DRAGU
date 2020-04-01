@@ -41,14 +41,13 @@ Za potrebe analize sva uporabljala samo neto vrednosti (namesto bruto), saj ponu
 
 ### Največja povprečna neto plača
 
-Pri vseh letih je največja plača v občini **Cerklje na Gorenjskem**. Sledeče vrednosti so največje 3 neto plače, v vsakem stolpcu urejene po barvi kjer **bold == največja plača**, *italics == druga največja plača*.
+Pri vseh letih je največja plača v občini **Cerklje na Gorenjskem**. 
 
 |                       |   2005 |    2006 |    2007 |    2008 |    2009 |    2010 |    2011 |    2012 |    2013 |    2014 |    2015 |    2016 |    2017 |    2018 |    2019 |
 |:----------------------|-------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
 | Cerklje na Gorenjskem | **994.07** | **1028.63** | **1065.88** | **1179.98** | **1147.61** | **1173.7**  | **1182.71** | **1187.71** | **1378.65** | **1393.08** | **1431.88** | **1404.53** | **1438.7**  | **1445.17** | **1433.9**  |
-| Kobilje               | *857*    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |
-| Ljubljana             | 848.09 |  *889.75* |  *963.6*  | 1042.35 | *1081.27* | *1106.95* | *1125.64* | *1124.97* | *1125.61* | 1130.74 | *1140.33* | *1159.83* | *1197.56* | *1231.47* | 1281.66 |
-| Sveta Ana             |   0    |  886.28 |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |
-| Dol pri Ljubljani     |   0    |    0    |  955.73 | *1066.81* |    0    | 1066.37 | 1119.9  | 1120.9  |    0    |    0    |    0    |    0    |    0    |    0    |    0    |
-| Sveti Tomaž           |   0    |    0    |    0    |    0    | 1052.42 |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    |
-| Novo mesto            |   0    |    0    |    0    |    0    |    0    |    0    |    0    |    0    | 1116.34 | *1145.87* | 1138.56 | 1149.06 | 1173.36 | 1217.78 | *1286.19* |
+| SLOVENIJA | 735.73 | 773.42 |  834.5 |  899.8 |    930 | 966.62 | 987.39 | 991.44 | 997.01 | 1005.41 | 1013.23 | 1030.16 |   1062 | 1092.74 | 1133.5 |'
+
+![Primerjava povp. neto plače z povp. plačo Slovenije](slike/Primerjava_povp_neto_place_1.png)
+
+### Največja povprečna plača za nadure
