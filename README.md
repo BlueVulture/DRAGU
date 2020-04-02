@@ -50,7 +50,7 @@ Pri vseh letih je največja plača v občini **Cerklje na Gorenjskem**.
 
 ![Primerjava povp. neto plače z povp. plačo Slovenije](slike/Primerjava_povp_neto_place_1.png)
 
-**Cerklje na Gorenjskem** ima večje povp. kot naslednjih 9 občin z največim povp. v letu 2019:
+**Cerklje na Gorenjskem** ima večje povp. kot naslednjih 9 občin z največjim povp. v letu 2019:
 
 ![Primerjava povp. neto plače](slike/Primerjava_povp_neto_place_2.png)
 
@@ -67,8 +67,24 @@ Primerjava vseh teh občin čez leta:
 
 ![Primerjava povp. plače nadur](slike/Primerjava_povp_nadure_1.png)
 
-Razkrije da je plača nadur v Kostel-ju leta 2010 osamelec. V primerjavi z številu oseb, katerim so te nadure bile izplačane:
+Razkrije da je plača nadur v Kostel-ju leta 2010 osamelec. V primerjavi s številom oseb, katerim so te nadure bile izplačane:
 
 ![Primerjava povp. št. oseb katerim so nadure bile plačane](slike/Primerjava_povp_nadure_2.png)
 
 Pokaže, da število oseb ni abnormalno nizko, kot sva pričakovala, ampak je celo konsistentno z povp. celotne Slovenije.
+
+### Zaposlene osebe, ki so prejele zaostala izplačila
+
+Največ prejetih zaostalih plač se pojavi v Odrancih, leta 2016. 
+
+|      |	2005	| 2006 |	2007	| 2008 |	2009 |	2010 |	2011 |	2012 |	2013 |	2014 |	2015 |	2016 |	2017 |	2018 |	2019 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **Občina** |	Log - Dragomer | Majšperk |	Velenje |	Velenje	| Benedikt |	Velenje |	Komen |	Odranci	| Odranci| 	Odranci	| Odranci |	Odranci |	Odranci	| Sveti Jurij ob Ščavnici	| Sveti Jurij ob Ščavnici |
+| **Število** |	26.4 |	28.9 |	32.7 |	34.2 |	27.6 |	37.5 |	31.6 |	78.1	| 76.2 |	77.2 |	76.9 |	80.2 |	50	| 33.9	| 34.7 |
+
+
+Primerjava skozi leta:
+
+![Primerjava povp. št. oseb katere so dobile zaostalo izplačilo](slike/analiza_zaostala_izplacila.png)
+
+V Odrancih je bilo tudi največ let zapored največje povprečje zaostalih izplačil in sicer 5 let zapored, od 2012 do 2017.
