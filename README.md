@@ -1,4 +1,4 @@
-# Povprečne mesečne plače po občinah
+# Razporeditev povp. plač po slovenskih občinah
 
 ## Opis problema
 
